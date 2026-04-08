@@ -48,4 +48,14 @@
 <img width="558" height="847" alt="Снимок экрана 2026-03-27 130257" src="https://github.com/user-attachments/assets/d3375cd7-a8e2-4a45-8b2b-b6e1f2b9c89c" />
 
 
+Задание 2. Обработка клика через XML-атрибут onClick (Декларативный подход)
+
+2.1. В файле activity_main.xml добавьте к нопке атрибут onClick 
+
+```java
+
+<Button
+    ...
+    android:onClick="onButtonClick" />
+```
 
